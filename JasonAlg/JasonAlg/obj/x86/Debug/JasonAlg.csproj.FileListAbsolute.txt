@@ -1,0 +1,12 @@
+D:\Work_Mini1\JasonAlg\JasonAlg\bin\Debug\JasonAlg.exe
+D:\Work_Mini1\JasonAlg\JasonAlg\bin\Debug\JasonAlg.pdb
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\JasonAlg.Form1.resources
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\JasonAlg.Properties.Resources.resources
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\JasonAlg.exe
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\JasonAlg.pdb
+D:\Work_Mini1\JasonAlg\JasonAlg\obj\x86\Debug\JasonAlg.CopyFile.resources
+D:\Work_Mini1\JasonAlg\JasonAlg\bin\Debug\JasonAlg.exe.config
+D:\Work_Mini1\JasonAlg\JasonAlg\bin\Debug\FrontMiddleCodec.dll

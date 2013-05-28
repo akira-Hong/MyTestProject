@@ -1,0 +1,5 @@
+D:\Work_Mini1\JasonAlg\JasonAlgWeb\bin\JasonAlgWeb.dll
+D:\Work_Mini1\JasonAlg\JasonAlgWeb\bin\JasonAlgWeb.pdb
+D:\Work_Mini1\JasonAlg\JasonAlgWeb\obj\Release\ResolveAssemblyReference.cache
+D:\Work_Mini1\JasonAlg\JasonAlgWeb\obj\Release\JasonAlgWeb.dll
+D:\Work_Mini1\JasonAlg\JasonAlgWeb\obj\Release\JasonAlgWeb.pdb

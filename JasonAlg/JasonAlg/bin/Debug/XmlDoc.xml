@@ -1,0 +1,20 @@
+<NewDataSet>
+  <Table1>
+    <Column1>a</Column1>
+    <Column2>a</Column2>
+    <Column3>a</Column3>
+    <Column4>a</Column4>
+  </Table1>
+  <Table1>
+    <Column1>b</Column1>
+    <Column2>b</Column2>
+    <Column3>b</Column3>
+    <Column4>b</Column4>
+  </Table1>
+  <Table1>
+    <Column1>c</Column1>
+    <Column2>c</Column2>
+    <Column3>c</Column3>
+    <Column4>c</Column4>
+  </Table1>
+</NewDataSet>
